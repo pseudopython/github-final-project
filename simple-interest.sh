@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Cooper Jones
+   # pseudopython
 
    # Input:
    # p, principal amount
